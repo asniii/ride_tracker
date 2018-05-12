@@ -15,3 +15,27 @@ target/m2e-wtp/web-resources/META-INF/maven/com.pluralsight/ride_tracker/pom.xml
 target/classes/log4j.properties
 target/m2e-wtp/web-resources/META-INF/maven/com.pluralsight/ride_tracker/pom.properties
 /target/
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.log
+
+# Eclipse project files
+.project
+.classpath
+.settings
+.DS_Store
+
+# Other project gen files
+target
+temp
+tmp
+bower_components
+.metadata
+CATALINA_HOME_IS_UNDEFINED
+node_modules
+logs
+dist
